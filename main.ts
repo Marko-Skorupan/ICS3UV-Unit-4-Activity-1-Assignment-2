@@ -2,7 +2,7 @@
  * @author Marko Skorupan
  * @version 1.0.0
  * @date 2025-11-28
- * @fileoverview  User enters 5 rows and receives correct number triangle.
+ * @fileoverview User enters 5 rows and receives correct number triangle.
  */
 
 const rowString: string = prompt("How many rows would you like? ") || "0";
